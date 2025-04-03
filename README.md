@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **@Pandak1876** (or **F2x-47**)
+- ## 👋 Hi, I’m **@Pandak1876** (or **F2x-47**)
 - 👀 I’m interested in science, math and programming...
 - 🧠 My programming languages: Python, JavaScript, HTML, CSS and C#
 - 💞️ I’m looking to collaborate on programming
