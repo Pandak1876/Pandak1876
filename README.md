@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @F2x-47 (or Pandak)
+- 👋 Hi, I’m **@Pandak1876** (or **F2x-47**)
 - 👀 I’m interested in science, math and programming...
 - 🧠 My programming languages: Python, JavaScript, HTML, CSS and C#
 - 💞️ I’m looking to collaborate on programming
-- 📫 How to reach me: guns.lol/pandak
+- 📫 How to reach me: (Click here for discover my links)[https://guns.lol/pandak]
 - 😄 Pronouns: Pandak / Pandak_x / TyloGo / F2x-M
 - ⚡ Fun fact: i'm Quaestor of Imperial on 2b2fr
