@@ -3,5 +3,4 @@
 - 🧠 My programming languages: Python, JavaScript, HTML, CSS and C#
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me: [Click here for discover my links](https://guns.lol/pandak)
-- 😄 Pronouns: Pandak / Pandak_x / TyloGo / F2x-M
-- ⚡ Fun fact: i'm Quaestor of Imperial on 2b2fr
+- 😄 Pronouns: Pandak / Pandak_x / TyloGo / F2x-M / F2x-47
